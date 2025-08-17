@@ -1,7 +1,7 @@
 __pycache__
 venv
 .env
-main.py
+embed_retreat.py
 urlextractor.py
 vectorconv.py
 vectorsearch.py
