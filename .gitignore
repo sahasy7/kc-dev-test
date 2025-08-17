@@ -1,0 +1,8 @@
+__pycache__
+venv
+.env
+main.py
+urlextractor.py
+vectorconv.py
+vectorsearch.py
+vectorupload.py
